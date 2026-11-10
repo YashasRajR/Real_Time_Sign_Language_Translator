@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.pytest_cache/
+
+# Personal data and generated files
+data/
+models/*.task
+models/*.joblib
+transcripts/
+
+# One-time helper script
+make_commits.bat
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
