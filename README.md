@@ -1,3 +1,9 @@
+<!-- profile-card:start -->
+<p align="center">
+  <a href="https://github.com/YashasRajR"><img src="https://raw.githubusercontent.com/YashasRajR/YashasRajR/main/cards/headers/Real_Time_Sign_Language_Translator.svg" width="100%" alt="Real-Time Sign Language Translator" /></a>
+</p>
+<!-- profile-card:end -->
+
 # Real-Time Sign Language Translator
 
 Turns American Sign Language (ASL) fingerspelling into text, live from your webcam. Sign letters one at a time and they build into words and sentences as captions on screen. The sentence can be read aloud and saved.
